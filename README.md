@@ -8,5 +8,5 @@ With root privilege, the script will install the latest versions of:
     3. gcc.  (32bit and 64bit)
     4. g++.  (32bit and 64bit)
     5. nasm. (32bit and 64bit)
-    5. Sublime Text 3.
-    6. git.
+    6. Sublime Text 3.
+    7. git.
