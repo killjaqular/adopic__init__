@@ -1,3 +1,5 @@
+# adopic__init__
+
 adopic__init__ requires:
     1. bash installed.
     2. apt installed.
